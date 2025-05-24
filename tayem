@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tayem: A Fine Shyte</title>
+  <style>
+    body {
+      background: linear-gradient(to right, #f0f0f0, #d1f0e1);
+      font-family: Arial, sans-serif;
+      padding: 40px;
+    }
+    h1 {
+      color: #2b7a78;
+      text-align: center;
+    }
+    .container {
+      display: flex;
+      align-items: flex-start;
+      max-width: 900px;
+      margin: 0 auto;
+      gap: 30px;
+    }
+    .image-container img {
+      max-width: 300px;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    }
+    .text-container {
+      max-width: 550px;
+    }
+    p {
+      font-size: 20px;
+      color: #3d3d3d;
+      margin-bottom: 20px;
+    }
+    .highlight {
+      font-weight: bold;
+      color: #17252a;
+    }
+    .footer {
+      text-align: center;
+      margin-top: 40px;
+      font-style: italic;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Tayem – A Fine Shyte 💫</h1>
+  <div class="container">
+    <div class="image-container">
+      <img src="tayem.png" alt="Tayem being Tayem">
+    </div>
+    <div class="text-container">
+      <p>
+        Here's to <span class="highlight">Tayem</span>: kind, calm, nonchalant, and effortlessly cool. 
+        A true gentleman with a heart of gold. His kindness radiates, his vibes are unmatched, 
+        and he's simply the finest match for <span class="highlight">For no one</span>.
+      </p>
+      <p>
+        In a world full of noise, Tayem is peace. In chaos, he's chill. A vibe. A legend.
+      </p>
+      <p>
+        But above all, it's his <span class="highlight">loyalty</span> that shines brightest. 
+        Through every moment, he's steady. He's real. The kind of loyalty that holds hearts together.
+      </p>
+    </div>
+  </div>
+
+  <div class="footer">
+    Made with admiration ❤️ 
+  </div>
+
+</body>
+</html>
